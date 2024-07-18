@@ -3,7 +3,7 @@
 
 ## About Me
 
-I am a fresh software engineer with a degree in Computer Science from [Your University/College]. I am passionate about developing software solutions and have experience with various programming languages, including Java, Python, and C++.
+I am a fresh software engineer with a degree in Computer system Engineering  from Palestine Technical University(Kadorie). I am passionate about developing software solutions and have experience with various programming languages, including C++,C# and Python.
 
 - 🔭 I’m currently working on improving my skills in Backend  development.
 - 🌱 I’m currently learning Asp.Net.
