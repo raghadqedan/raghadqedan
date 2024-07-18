@@ -8,7 +8,7 @@ I am a fresh software engineer with a degree in Computer system Engineering  fro
 - 🔭 I’m currently working on improving my skills in Backend  development.
 - 🌱 I’m currently learning Asp.Net.
 - 👯 I’m looking to collaborate on open source projects.
-- 📫 How to reach me: [Your Email](raghadqedan@yahoo.com).
+- 📫 How to reach me: raghadqedan(raghadqedan@yahoo.com).
 
 ## Skills
 
