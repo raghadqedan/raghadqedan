@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Raghad qedan 👋
 
-<!--
-**raghadqedan/raghadqedan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a fresh software engineer with a degree in Computer Science from [Your University/College]. I am passionate about developing software solutions and have experience with various programming languages, including Java, Python, and C++.
+
+- 🔭 I’m currently working on improving my skills in Backend  development.
+- 🌱 I’m currently learning Asp.Net.
+- 👯 I’m looking to collaborate on open source projects.
+- 📫 How to reach me: [Your Email](raghadqedan@yahoo.com).
+
+## Skills
+
+- **Languages:** C++,C#,Java, Python, Dart
+- **Frameworks:** Asp.Net, Flutter
+- **Tools:** Git, postman
+- **Databases:** Sql Server, MySQL
+- 
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/raghad-qedan-4a398223a/)
