@@ -1,4 +1,4 @@
-# Hi there, I'm Raghad qedan 👋
+# Hi there, I'm Raghad Qedan 👋
 
 
 ## About Me
