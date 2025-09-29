@@ -12,9 +12,9 @@ I am a fresh software engineer with a degree in Computer system Engineering  fro
 
 ## Skills
 
-- **Languages:** C++,C#,Java, Python, Dart
-- **Frameworks:** Asp.Net, Flutter
-- **Tools:** Git, postman
+- **Languages:** C++,C#,Java, Python, Dart,HTML,CSS,JS
+- **Frameworks:** React,Asp.Net, Flutter
+- **Tools:** Git, postman,tailwind
 - **Databases:** Sql Server, MySQL
 - 
 
