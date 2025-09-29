@@ -5,8 +5,8 @@
 
 I am a fresh software engineer with a degree in Computer system Engineering  from Palestine Technical University(Kadorie). I am passionate about developing software solutions and have experience with various programming languages, including C++,C# and Python.
 
-- 🔭 I’m currently working on improving my skills in Backend  development.
-- 🌱 I’m currently learning Asp.Net.
+- 🔭 I’m currently working on improving my skills in FrontEnd development.
+- 🌱 I’m currently learning  React library.
 - 👯 I’m looking to collaborate on open source projects.
 - 📫 How to reach me: raghadqedan@yahoo.com
 
